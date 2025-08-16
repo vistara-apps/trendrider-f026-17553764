@@ -1,0 +1,14 @@
+{
+  "name": "TrendRider",
+  "description": "TrendRider is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://f0269391-7893-4cde-9cca-5cc3f8e78086.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "TrendRider",
+      "description": "TrendRider is a Base Mini App built with Zara.",
+      "url": "https://f0269391-7893-4cde-9cca-5cc3f8e78086.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
